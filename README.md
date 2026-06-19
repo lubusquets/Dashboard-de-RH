@@ -31,10 +31,11 @@ Durante a etapa de preparação dos dados foram realizadas atividades como:
 
 # :chart_with_upwards_trend: Dashboard
 
-![](
-
-
-
+![](https://github.com/lubusquets/Dashboard-de-RH/blob/main/img/rh1.jpeg?raw=true)
+![](https://github.com/lubusquets/Dashboard-de-RH/blob/main/img/rh2.jpeg?raw=true)
+![](https://github.com/lubusquets/Dashboard-de-RH/blob/main/img/rh3.jpeg?raw=true)
+![](https://github.com/lubusquets/Dashboard-de-RH/blob/main/img/rh4.jpeg?raw=true)
+![](https://github.com/lubusquets/Dashboard-de-RH/blob/main/img/rh5.jpeg?raw=true)
 
 # :sparkles: Visualizações utilizadas
 
