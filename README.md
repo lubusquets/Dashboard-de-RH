@@ -39,7 +39,7 @@ Durante a etapa de preparação dos dados foram realizadas atividades como:
 
 # :sparkles: Visualizações utilizadas
 
->O projeto utiliza diferentes recursos do Power BI para tornar a análise mais completa:
+- O projeto utiliza diferentes recursos do Power BI para tornar a análise mais completa:
 
 Cards de indicadores (KPIs); Sparkline; Gráfico de Funil; Gráfico de Rosca; Árvore de Decomposição; Tooltip personalizada; Segmentações interativas.
 
@@ -53,6 +53,10 @@ Durante a execução deste projeto foram praticados conceitos importantes de Bus
 - Desenvolvimento de dashboards profissionais;
 - Customização de visuais;
 - Implementação de Tooltips para enriquecer a experiência do usuário.
+
+# :pushpin: Resultado
+
+>O dashboard oferece uma visão consolidada dos indicadores de RH, permitindo identificar rapidamente informações relevantes sobre admissões, desligamentos, distribuição de colaboradores e comportamento do turnover, auxiliando na análise e na tomada de decisões.
   
 # :link: Sites utilizados
 
