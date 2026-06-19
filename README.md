@@ -29,12 +29,29 @@ Durante a etapa de preparação dos dados foram realizadas atividades como:
 - Extração da Cidade a partir do endereço utilizando Coluna de Exemplos;
 - Organização dos dados para utilização no modelo analítico.
 
+# :bar_chart: Dashboard
+
+
+
+
+
 # :sparkles: Visualizações utilizadas
 
 >O projeto utiliza diferentes recursos do Power BI para tornar a análise mais completa:
 
 Cards de indicadores (KPIs); Sparkline; Gráfico de Funil; Gráfico de Rosca; Árvore de Decomposição; Tooltip personalizada; Segmentações interativas.
 
+# :brain: Habilidades Desenvolvidas
+
+Durante a execução deste projeto foram praticados conceitos importantes de Business Intelligence, como:
+
+- Transformação e preparação de dados no Power Query;
+- Criação de medidas em DAX;
+- Construção de KPIs;
+- Desenvolvimento de dashboards profissionais;
+- Customização de visuais;
+- Implementação de Tooltips para enriquecer a experiência do usuário.
+  
 # :link: Sites utilizados
 
 - https://www.color-hex.com ; https://dribbble.com ; https://www.flaticon.com ; https://mycolor.space ; https://instant-eyedropper.com
