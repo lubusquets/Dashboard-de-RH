@@ -29,8 +29,9 @@ Durante a etapa de preparação dos dados foram realizadas atividades como:
 - Extração da Cidade a partir do endereço utilizando Coluna de Exemplos;
 - Organização dos dados para utilização no modelo analítico.
 
-# :bar_chart: Dashboard
+# :chart_with_upwards_trend: Dashboard
 
+![](
 
 
 
